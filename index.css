@@ -160,23 +160,23 @@ footer {
   }
 
   .sec h2 {
-    font-size: 15px;
+    font-size: 17px;
   }
 
   .sec ul {
-    font-size: 12px;
+    font-size: 13px;
   }
 
   .sec4 ul li a span {
-    font-size: 10px;
+    font-size: 15px;
   }
 }
 
 @media (min-width: 901px) and (max-width: 1700px) {
   #profile h1 {
-    font-size: 20px;
+    font-size: 35px;
   }
-  
+
   #box {
     width: 30%;
     height: 80%;
@@ -190,14 +190,14 @@ footer {
   }
 
   .sec h2 {
-    font-size: 15px;
+    font-size: 25px;
   }
 
   .sec ul {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   .sec4 ul li a span {
-    font-size: 10px;
+    font-size: 20px;
   }
 }
